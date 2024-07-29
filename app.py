@@ -66,7 +66,7 @@ def main():
     )
     tonemail = st.selectbox(
         "The tone of this email should be...",
-        ["Professional", "Friendly", "Urgent", "Enthusiastic", "Formal"]
+        ["Professional", "Friendly", "Urgent", "Enthusiastic", "Formal","Empathetic"]
     )
     
 
